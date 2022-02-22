@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: dimgray;
+}
+
+a {
+    color: darkred;
+    transition: all 0.2s;
+
+}
+a:hover{
+    opacity: 0.6;
+}
+
+a:active{
+    opacity: 1;
+}
